@@ -17,3 +17,5 @@ Picard sagte gerne:
 
 > Einige der dunkelsten Kapitel unserer Welt handeln von der Vertreibung einer kleinen Gruppe von Menschen zum Wohle der Mehrheit.
 > Ich hatte gehofft, dass wir aus unseren Fehlern gelernt haben, aber einige von uns haben das anscheinend nicht.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Jean-Luc_Picard_2.jpg"/>
